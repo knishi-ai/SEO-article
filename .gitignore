@@ -1,0 +1,19 @@
+node_modules/
+
+# OAuth / API credentials
+credentials.json
+client_secret_*.json
+token.json
+*.pickle
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Media (managed externally)
+*.mp4
+*.mov
+*.avi
